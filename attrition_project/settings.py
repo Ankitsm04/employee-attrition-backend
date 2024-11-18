@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-9yb^^(37$yn2v7v968e^5+d-&)&skc%v5#yax4#sz%&v*l6xi&
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['employee-attrition-backend.onrender.com','employee-attrition.vercel.app','https://web-production-d0f9b.up.railway.app']
+ALLOWED_HOSTS = ['employee-attrition-backend.onrender.com','employee-attrition.vercel.app','web-production-d0f9b.up.railway.app']
 
 
 # Application definition
